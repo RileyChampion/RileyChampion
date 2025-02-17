@@ -1,6 +1,5 @@
 
 # Hi, I'm Riley! 👋
-`[beep, boop]`
 
 Full-stack Developer & D&D Nerd 🎲. Learning different full-stack framework and how to build own game engine (just cause)
 ## 🔗 Links
